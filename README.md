@@ -29,3 +29,15 @@
 * **[`Fractal_View_Inner.m3p`](Practical_Task_3D_Fractal/Fractal_View_Inner.m3p)** — файл параметрів сцени, що відповідає Рисунку 6 (внутрішній ракурс);
 * **[`Fractal_View_Outer.jpg`](Practical_Task_3D_Fractal/Fractal_View_Outer.jpg)** — оригінал фінального зображення (зовнішній вигляд);
 * **[`Fractal_View_Inner.jpg`](Practical_Task_3D_Fractal/Fractal_View_Inner.jpg)** — оригінал фінального зображення (внутрішній простір).
+
+Практичне завдання
+**Тема:** Тема: Розробка та оптимізація анімованих графічних об’єктів у форматі GIF. Робота з часовою шкалою (Timeline) та алгоритмами покадрової анімації. 
+
+**Виконав:** Студент гр. 4КН-24Б Надзіваний Б.М.
+
+---
+
+**Структура папки [`balenciaga_box_gif`](balenciaga_box_gif):**
+
+* **[`balenciaga_box_gif.psd.zip`](balenciaga_box_gif/balenciaga_box_gif.psd.zip)** — архів робочого файлу Adobe Photoshop. Містить ієрархічну структуру шарів, налаштовані режими накладання (*Blending Modes*) та таймлайн анімації.
+* **[`balenciaga_box.gif`](balenciaga_box_gif/balenciaga_box.gif)** — фінальний результат візуалізації. Оптимізована GIF-анімація за стандартом GIF89a.
