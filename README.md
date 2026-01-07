@@ -1,5 +1,6 @@
 # Computer-Graphics-and-Visualization
 
+
 Практичне завдання 
 **Тема:** Візуалізація графічних об’єктів засобами растрової графіки. Робота з багатошаровими структурами та технологією Smart Object.  
 
@@ -13,6 +14,7 @@
 
 * **[GOOGLE DRIVE](https://drive.google.com/drive/folders/1oI9JcprQxyY4HWSmotPXIkjkaWFeTwPQ?usp=drive_link)**;
 * **[Джерело мокапу](https://pixelbuddha.net/mockups/6145-top-view-gift-box-mockup)**.
+
 
 Практичне завдання
 **Тема:** Візуалізація графічних об’єктів засобами растрової графіки. Робота з багатошаровими структурами та технологією Smart Object.
@@ -30,6 +32,7 @@
 * **[`Fractal_View_Outer.jpg`](Practical_Task_3D_Fractal/Fractal_View_Outer.jpg)** — оригінал фінального зображення (зовнішній вигляд);
 * **[`Fractal_View_Inner.jpg`](Practical_Task_3D_Fractal/Fractal_View_Inner.jpg)** — оригінал фінального зображення (внутрішній простір).
 
+
 Практичне завдання
 **Тема:** Тема: Розробка та оптимізація анімованих графічних об’єктів у форматі GIF. Робота з часовою шкалою (Timeline) та алгоритмами покадрової анімації. 
 
@@ -41,3 +44,17 @@
 
 * **[`balenciaga_box_gif.psd.zip`](balenciaga_box_gif/balenciaga_box_gif.psd.zip)** — архів робочого файлу Adobe Photoshop. Містить ієрархічну структуру шарів, налаштовані режими накладання (*Blending Modes*) та таймлайн анімації;
 * **[`balenciaga_box.gif`](balenciaga_box_gif/balenciaga_box.gif)** — фінальний результат візуалізації. Оптимізована GIF-анімація за стандартом GIF89a.
+
+
+Практичне завдання 
+**Тема:** Дослідження методів полігонального моделювання та алгоритмів візуалізації складних тривимірних об'єктів. .  
+
+**Виконав:** Студент гр. 4КН-24Б Надзіваний Б.М.
+
+---
+
+Вихідний файл проекту
+
+Повний робочий файл проекту розміщено на хмарному сховищі:
+
+* **[GOOGLE DRIVE](https://drive.google.com/drive/folders/1oI9JcprQxyY4HWSmotPXIkjkaWFeTwPQ?usp=drive_link)**.
