@@ -13,7 +13,7 @@
 * **[GOOGLE DRIVE](https://drive.google.com/drive/folders/1oI9JcprQxyY4HWSmotPXIkjkaWFeTwPQ?usp=drive_link)**;
 * **[Джерело мокапу](https://pixelbuddha.net/mockups/6145-top-view-gift-box-mockup)**.
 
-Практичне завдання 
+Практичне завдання
 **Тема:** Візуалізація графічних об’єктів засобами растрової графіки. Робота з багатошаровими структурами та технологією Smart Object.
 **Виконав:** Студент гр. 4КН-24Б Надзіваний Б.М.
 
