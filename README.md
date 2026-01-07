@@ -21,7 +21,7 @@
 
 ---
 
-Вихідний файл проекту
+Вихідні файли проекту
 
 **Структура папки [`Practical_Task_3D_Fractal`](Practical_Task_3D_Fractal):**
 
