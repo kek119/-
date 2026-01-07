@@ -52,5 +52,5 @@
 
 Повний робочий файл проекту розміщено на хмарному сховищі:
 
-* **[GOOGLE DRIVE][(https://drive.google.com/drive/folders/1wOJvzplt_sqCZCUenlLh8unVOjMBcMr8?usp=sharing)**.
+* **[GOOGLE DRIVE](https://drive.google.com/drive/folders/1wOJvzplt_sqCZCUenlLh8unVOjMBcMr8?usp=sharing)**.
 ---
