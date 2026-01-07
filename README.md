@@ -39,5 +39,5 @@
 
 **Структура папки [`balenciaga_box_gif`](balenciaga_box_gif):**
 
-* **[`balenciaga_box_gif.psd.zip`](balenciaga_box_gif/balenciaga_box_gif.psd.zip)** — архів робочого файлу Adobe Photoshop. Містить ієрархічну структуру шарів, налаштовані режими накладання (*Blending Modes*) та таймлайн анімації.
+* **[`balenciaga_box_gif.psd.zip`](balenciaga_box_gif/balenciaga_box_gif.psd.zip)** — архів робочого файлу Adobe Photoshop. Містить ієрархічну структуру шарів, налаштовані режими накладання (*Blending Modes*) та таймлайн анімації;
 * **[`balenciaga_box.gif`](balenciaga_box_gif/balenciaga_box.gif)** — фінальний результат візуалізації. Оптимізована GIF-анімація за стандартом GIF89a.
