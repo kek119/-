@@ -10,8 +10,8 @@
 
 Повний робочий файл проекту розміщено на хмарному сховищі:
 
-**[GOOGLE DRIVE](https://drive.google.com/drive/folders/1oI9JcprQxyY4HWSmotPXIkjkaWFeTwPQ?usp=drive_link)**
-**[Джерело мокапу](https://pixelbuddha.net/mockups/6145-top-view-gift-box-mockup)**
+* **[GOOGLE DRIVE](https://drive.google.com/drive/folders/1oI9JcprQxyY4HWSmotPXIkjkaWFeTwPQ?usp=drive_link)**;
+* **[Джерело мокапу](https://pixelbuddha.net/mockups/6145-top-view-gift-box-mockup)**.
 
 Практичне завдання 
 **Тема:** Візуалізація графічних об’єктів засобами растрової графіки. Робота з багатошаровими структурами та технологією Smart Object.
